@@ -1,4 +1,4 @@
-# Pemrograman Berbasis Framework
+# Pemrograman Web Lanjut
 
 |  |  |
 |--|--|
@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **nim** |
 | Nama Lengkap | **nama** |
-| Kelas | TI-3C/3D |
+| Kelas | TI-2B |
 
 
 ## Struktur Folder
